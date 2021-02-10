@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="heading_font_size">28sp</dimen>
     <dimen name="border_margin">10dp</dimen>
+    <dimen name="heading_font_size">28sp</dimen>
+    <dimen name="margin_top">20dp</dimen>
 </resources>
